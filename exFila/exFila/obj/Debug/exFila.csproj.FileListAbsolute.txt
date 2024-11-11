@@ -1,0 +1,8 @@
+C:\Users\aluno\source\repos\exFila\exFila\bin\Debug\exFila.exe.config
+C:\Users\aluno\source\repos\exFila\exFila\bin\Debug\exFila.exe
+C:\Users\aluno\source\repos\exFila\exFila\bin\Debug\exFila.pdb
+C:\Users\aluno\source\repos\exFila\exFila\obj\Debug\exFila.csproj.AssemblyReference.cache
+C:\Users\aluno\source\repos\exFila\exFila\obj\Debug\exFila.csproj.SuggestedBindingRedirects.cache
+C:\Users\aluno\source\repos\exFila\exFila\obj\Debug\exFila.csproj.CoreCompileInputs.cache
+C:\Users\aluno\source\repos\exFila\exFila\obj\Debug\exFila.exe
+C:\Users\aluno\source\repos\exFila\exFila\obj\Debug\exFila.pdb
